@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! I'm Faraz Golshahi <br>🖥️Angular...<br>📱️Flutter...<br>🧑‍💻React...<br>💻Nest.js...</h3>
+<h3 align="left">Hi 👋! I'm Faraz Golshahi <br>🖥️Angular...<br>📱️Flutter...<br>🧑‍💻React.js...<br>💻Nest.js...</h3>
 
 ###
 
