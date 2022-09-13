@@ -35,11 +35,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/faraz/faraz/blob/output/snake.svg" alt="Snake animation" />
-
-###
-Profile Readme Generator
-1 error
